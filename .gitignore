@@ -33,10 +33,11 @@ out/
 .vscode/
 
 # The following files are generated/updated by vaadin-gradle-plugin
-node_modules/
+sub-project/node_modules/
 webpack.generated.js
 target
 out
 pnpmfile.js
 .npmrc
-src/main/frontend/generated
+sub-project/src/main/frontend/generated
+sub-project/frontend/generated
